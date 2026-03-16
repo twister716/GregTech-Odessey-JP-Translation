@@ -3352,25 +3352,25 @@
   "block.gtocore.opv_16777216a_laser_target_hatch": "§9§lOpV§r 16,777,216§eA§r対応レーザー照準ハッチ",
   "block.gtocore.opv_accelerate_hatch": "§9§lOpV§r Accelerate Hatch",
 
-  "block.gtocore.opv_arc_generator": "§9§lアーク発生機 §r",
-  "gtocore.machine.opv_arc_generator.tooltip": "§7Stellar Energy Extractor",
+  "block.gtocore.opv_arc_generator": "§9§l伝説型アーク発生機 §r",
+  "gtocore.machine.opv_arc_generator.tooltip": "§7恒星エネルギー抽出機",
 
-  "block.gtocore.opv_cluster": "§9§lクラスター圧延機 §r",
-  "gtocore.machine.opv_cluster.tooltip": "§7Reality Weaver",
+  "block.gtocore.opv_cluster": "§9§l伝説型クラスター圧延機 §r",
+  "gtocore.machine.opv_cluster.tooltip": "§7真の",
 
-  "block.gtocore.opv_dehydrator": "§9§l脱水機 §r",
+  "block.gtocore.opv_dehydrator": "§9§l伝説型脱水機 §r",
   "gtocore.machine.opv_dehydrator.tooltip": "§7Water Molecule Eliminator",
 
   "block.gtocore.opv_hermetic_casing": "気密外装 XIII",
   "item.gtocore.opv_integrated_control_core": "§9§lOpV§r統合制御コア",
 
-  "block.gtocore.opv_laminator": "§9§lラミネート機 §r",
+  "block.gtocore.opv_laminator": "§9§l伝説型ラミネート機 §r",
   "gtocore.machine.opv_laminator.tooltip": "§7Absolute Insulation Barrier Generator",
 
-  "block.gtocore.opv_laser_welder": "§9§lレーザー溶接機 §r",
+  "block.gtocore.opv_laser_welder": "§9§l伝説型レーザー溶接機 §r",
   "gtocore.machine.opv_laser_welder.tooltip": "§7Causality Welder",
 
-  "block.gtocore.opv_loom": "§9§l織機 §r",
+  "block.gtocore.opv_loom": "§9§l伝説型織機 §r",
   "gtocore.machine.opv_loom.tooltip": "§7Fate Spinning Wheel",
 
   "block.gtocore.opv_mana_extract_hatch": "Perpetual Mana Extract Hatch",
@@ -3382,12 +3382,12 @@
   "block.gtceu.opv_parallel_hatch": "§9§lOpV§r並列制御ユニット",
   "block.gtocore.opv_programmablec_hatch": "§9§lOpV Programmable Hatch",
 
-  "block.gtocore.opv_rolling": "§9§l圧延機 §r",
+  "block.gtocore.opv_rolling": "§9§l伝説型圧延機 §r",
   "gtocore.machine.opv_rolling.tooltip": "§7Dimensional Compactor",
 
   "block.gtocore.opv_thread_hatch": "§9§lOpV§r Thread Hatch",
 
-  "block.gtocore.opv_unpacker": "§9§l開梱機 §r",
+  "block.gtocore.opv_unpacker": "§9§l伝説型開梱機 §r",
   "gtocore.machine.opv_unpacker.tooltip": "§7Causality Package Cracker",
 
   "item.gtocore.opv_voltage_coil": "OpV Voltage Coil",
@@ -3421,7 +3421,7 @@
   "block.gtocore.opv_wireless_output_hatch_4194304a": "§9§lOpV§r 4,194,304§eA§r Wireless Dynamo Hatch",
   "block.gtocore.opv_wireless_output_hatch_16777216a": "§9§lOpV§r 16,777,216§eA§r Wireless Dynamo Hatch",
 
-  "block.gtocore.opv_world_data_scanner": "§9§l世界データスキャナー §r",
+  "block.gtocore.opv_world_data_scanner": "§9§l伝説型世界データスキャナー §r",
   "gtocore.machine.opv_world_data_scanner.tooltip": "§7Cosmic Database Terminal",
 
   "block.gtocore.orbital_fine_materials_factory": "Orbital Fine Materials Factory",
